@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Ubisoft Connect
+Exec=env WINEPREFIX="/home/combatrickshaw/Games/epic-games" wine C:\\\\users\\\\combatrickshaw\\\\AppData\\\\Roaming\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Ubisoft\\\\Ubisoft\\ Connect\\\\Ubisoft\\ Connect.lnk
+Type=Application
+StartupNotify=true
+Path=/home/combatrickshaw/Games/epic-games/dosdevices/c:/Program Files (x86)/Ubisoft/Ubisoft Game Launcher
+Icon=F24A_UbisoftConnect.0
+StartupWMClass=ubisoftconnect.exe

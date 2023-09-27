@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Uninstall
+Exec=env WINEPREFIX="/home/combatrickshaw/Games/epic-games" wine C:\\\\users\\\\combatrickshaw\\\\AppData\\\\Roaming\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Ubisoft\\\\Ubisoft\\ Connect\\\\Uninstall.lnk
+Type=Application
+StartupNotify=true
+Path=/home/combatrickshaw/Games/epic-games/dosdevices/c:/Program Files (x86)/Ubisoft/Ubisoft Game Launcher
+Icon=283B_Uninstall.0
+StartupWMClass=uninstall.exe
